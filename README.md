@@ -8,7 +8,7 @@
 
 - https://mocca96.medium.com/know-your-options-c353d993204e
 
-## Factor regressions
+## Fama-French Risk Factor Regressions
 
 - https://mocca96.medium.com/risk-factor-regressions-d1fc45a9abc6
 
@@ -29,6 +29,8 @@
 ### Setup Exchange and Asset Metadata to run a Single Factor Pipeline
 
 - https://mocca96.medium.com/algorithmic-trading-simulations-part-iii-d8ff8572284e
+
+## Zipline-Trader
 
 ### From Algorithmic Trading Simulations To Live Trading
 
