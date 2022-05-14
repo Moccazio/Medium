@@ -1,16 +1,14 @@
-# Medium 
+# Medium
 
-## Get Started with Stock Performance Analysis
-
-- https://medium.com/analytics-vidhya/how-to-get-started-with-stock-performance-analysis-in-python-53378e3b8d74
+[Get Started with Stock Performance Analysis](https://medium.com/analytics-vidhya/how-to-get-started-with-stock-performance-analysis-in-python-53378e3b8d74)
 
 ## Trading Options
 
-- https://mocca96.medium.com/know-your-options-c353d993204e
+[Know Your Options](https://mocca96.medium.com/know-your-options-c353d993204e)
 
-## Fama-French Risk Factor Regressions
+## Fama-French Factor
 
-- https://mocca96.medium.com/risk-factor-regressions-d1fc45a9abc6
+[Risk Factor Regressions](https://mocca96.medium.com/risk-factor-regressions-d1fc45a9abc6)
 
 ## Testing the Lemon Markets Beta for European Equities
 
