@@ -12,21 +12,21 @@
 
 ## Testing the Lemon Markets Beta for European Equities
 
-- https://mocca96.medium.com/lemons-can-be-sweet-953ea87a561f
+ [Lemons Can Be Sweet](https://mocca96.medium.com/lemons-can-be-sweet-953ea87a561f)
 
 ## Zipline-Reloaded 
 
 ### Ingest Custom Data
 
-- https://mocca96.medium.com/algorithmic-trading-simulations-a211b5b6aa40
+[Algorithmic Trading Simulations Part I](https://mocca96.medium.com/algorithmic-trading-simulations-a211b5b6aa40)
 
 ### Build and Backtest Trading Strategies
 
-- https://mocca96.medium.com/algorithmic-trading-simulations-part-ii-6f138a146b93
+[Algorithmic Trading Simulations Part II](https://mocca96.medium.com/algorithmic-trading-simulations-part-ii-6f138a146b93)
 
 ### Setup Exchange and Asset Metadata to run a Single Factor Pipeline
 
-- https://mocca96.medium.com/algorithmic-trading-simulations-part-iii-d8ff8572284e
+[Algorithmic Trading Simulations Part II](https://mocca96.medium.com/algorithmic-trading-simulations-part-iii-d8ff8572284e)
 
 ## Zipline-Trader
 
