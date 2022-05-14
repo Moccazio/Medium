@@ -1,0 +1,4 @@
+key_id: "your_api_key"
+secret: "your_secret_key"
+base_url: https://paper-api.alpaca.markets # or https://api.alpaca.markets 
+feed: sip # <== change to "iex" if you have a free account 
