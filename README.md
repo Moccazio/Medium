@@ -1,4 +1,4 @@
-# Medium
+# Medium - Overview
 
 [Get Started with Stock Performance Analysis](https://medium.com/analytics-vidhya/how-to-get-started-with-stock-performance-analysis-in-python-53378e3b8d74)
 
