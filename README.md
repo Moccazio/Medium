@@ -18,15 +18,15 @@
 
 ## Zipline-Reloaded 
 
-#### Ingest Custom Data
+##### Ingest Custom Data
 
 [Algorithmic Trading Simulations Part I](https://mocca96.medium.com/algorithmic-trading-simulations-a211b5b6aa40)
 
-#### Build and Backtest Trading Strategies
+##### Build and Backtest Trading Strategies
 
 [Algorithmic Trading Simulations Part II](https://mocca96.medium.com/algorithmic-trading-simulations-part-ii-6f138a146b93)
 
-#### Setup Exchange and Asset Metadata to run a Single Factor Pipeline
+##### Setup Exchange and Asset Metadata to run a Single Factor Pipeline
 
 [Algorithmic Trading Simulations Part II](https://mocca96.medium.com/algorithmic-trading-simulations-part-iii-d8ff8572284e)
 
@@ -37,5 +37,5 @@
 ## pylivetrader
 [Standing on the Shoulder of Giants](https://mw96.medium.com/standing-on-the-shoulder-of-giants-72f90ee2a959)
 
-#### Run pylivetrader Algorithm in the Cloud 
+##### Run pylivetrader Algorithm in the Cloud 
 [Cloud Driven Snakes](https://mw96.medium.com/cloud-driven-snakes-be036e28d84f)
