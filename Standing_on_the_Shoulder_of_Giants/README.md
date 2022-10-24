@@ -18,7 +18,7 @@ Install the [python wrapper](https://github.com/mrjbq7/ta-lib) for [TA-Lib](http
 
 Install [scikit-learn](https://scikit-learn.org/stable/) 
 
-`$ pip install scikit-learn`
+`$ pip install scikit-learn==0.23.2`
 
 Install [ipykernel](https://ipython.org/)
 
