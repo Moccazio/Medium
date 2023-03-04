@@ -1,0 +1,102 @@
+,company,ticker,sector,industry
+0,Activision Blizzard,ATVI,Communication Services,Interactive Home Entertainment
+1,Adobe Inc.,ADBE,Information Technology,Application Software
+2,ADP,ADP,Information Technology,Data Processing & Outsourced Services
+3,Airbnb,ABNB,Consumer Discretionary,Internet & Direct Marketing Retail
+4,Align Technology,ALGN,Health Care,Health Care Supplies
+5,Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services
+6,Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services
+7,Amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail
+8,Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors
+9,American Electric Power,AEP,Utilities,Electric Utilities
+10,Amgen,AMGN,Health Care,Biotechnology
+11,Analog Devices,ADI,Information Technology,Semiconductors
+12,Ansys,ANSS,Information Technology,Application Software
+13,Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
+14,Applied Materials,AMAT,Information Technology,Semiconductor Equipment
+15,ASML Holding,ASML,Information Technology,Semiconductor Equipment
+16,AstraZeneca,AZN,Health Care,Pharmaceuticals
+17,Atlassian,TEAM,Information Technology,Application Software
+18,Autodesk,ADSK,Information Technology,Application Software
+19,Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services
+20,Biogen,BIIB,Health Care,Biotechnology
+21,Booking Holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail
+22,Broadcom Inc.,AVGO,Information Technology,Semiconductors
+23,Cadence Design Systems,CDNS,Information Technology,Application Software
+24,Charter Communications,CHTR,Communication Services,Cable & Satellite
+25,Cintas,CTAS,Industrials,Diversified Support Services
+26,Cisco,CSCO,Information Technology,Communications Equipment
+27,Cognizant,CTSH,Information Technology,IT Consulting & Other Services
+28,Comcast,CMCSA,Communication Services,Cable & Satellite
+29,Constellation Energy,CEG,Utilities,Multi-Utilities
+30,Copart,CPRT,Industrials,Diversified Support Services
+31,CoStar Group,CSGP,Industrials,Research & Consulting Services
+32,Costco,COST,Consumer Staples,Hypermarkets & Super Centers
+33,CrowdStrike,CRWD,Information Technology,Application Software
+34,CSX Corporation,CSX,Industrials,Railroads
+35,Datadog,DDOG,Information Technology,Application Software
+36,DexCom,DXCM,Health Care,Health Care Equipment
+37,Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production
+38,Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores
+39,eBay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail
+40,Electronic Arts,EA,Communication Services,Interactive Home Entertainment
+41,Enphase Energy,ENPH,Information Technology,Electronic Components
+42,Exelon,EXC,Utilities,Multi-Utilities
+43,Fastenal,FAST,Industrials,Building Products
+44,Fiserv,FISV,Information Technology,Data Processing & Outsourced Services
+45,Fortinet,FTNT,Information Technology,Systems Software
+46,Gilead Sciences,GILD,Health Care,Biotechnology
+47,GlobalFoundries,GFS,Information Technology,Semiconductors
+48,Honeywell,HON,Industrials,Industrial Conglomerates
+49,Idexx Laboratories,IDXX,Health Care,Health Care Equipment
+50,"Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services
+51,Intel,INTC,Information Technology,Semiconductors
+52,Intuit,INTU,Information Technology,Application Software
+53,Intuitive Surgical,ISRG,Health Care,Health Care Equipment
+54,JD.com,JD,Consumer Discretionary,Internet & Direct Marketing Retail
+55,Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks
+56,KLA Corporation,KLAC,Information Technology,Semiconductor Equipment
+57,Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats
+58,Lam Research,LRCX,Information Technology,Semiconductor Equipment
+59,Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers
+60,Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+61,Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+62,Marvell Technology,MRVL,Information Technology,Application Software
+63,MercadoLibre,MELI,Consumer Discretionary,Internet & Direct Marketing Retail
+64,Meta Platforms,META,Communication Services,Interactive Media & Services
+65,Microchip Technology,MCHP,Information Technology,Semiconductors
+66,Micron Technology,MU,Information Technology,Semiconductors
+67,Microsoft,MSFT,Information Technology,Systems Software
+68,Moderna,MRNA,Health Care,Biotechnology
+69,Mondelēz International,MDLZ,Consumer Staples,Packaged Foods & Meats
+70,Monster Beverage,MNST,Consumer Staples,Soft Drinks
+71,Netflix,NFLX,Communication Services,Movies & Entertainment
+72,Nvidia,NVDA,Information Technology,Semiconductors
+73,NXP,NXPI,Information Technology,Semiconductors
+74,O'Reilly Automotive,ORLY,Consumer Discretionary,Specialty Stores
+75,Old Dominion Freight Line,ODFL,Industrials,Trucking
+76,Paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks
+77,Palo Alto Networks,PANW,Information Technology,Application Software
+78,Paychex,PAYX,Information Technology,Data Processing & Outsourced Services
+79,PayPal,PYPL,Information Technology,Data Processing & Outsourced Services
+80,PDD Holdings,PDD,Consumer Discretionary,Internet & Direct Marketing Retail
+81,PepsiCo,PEP,Consumer Staples,Soft Drinks
+82,Qualcomm,QCOM,Information Technology,Semiconductors
+83,Regeneron,REGN,Health Care,Biotechnology
+84,Rivian,RIVN,Consumer Discretionary,Automobile Manufacturers
+85,Ross Stores,ROST,Consumer Discretionary,Apparel Retail
+86,Seagen,SGEN,Health Care,Biotechnology
+87,Sirius XM,SIRI,Communication Services,Broadcasting
+88,Starbucks,SBUX,Consumer Discretionary,Restaurants
+89,Synopsys,SNPS,Information Technology,Application Software
+90,T-Mobile US,TMUS,Communication Services,Wireless Telecommunication Services
+91,"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers
+92,Texas Instruments,TXN,Information Technology,Semiconductors
+93,Verisk,VRSK,Industrials,Research & Consulting Services
+94,Vertex Pharmaceuticals,VRTX,Health Care,Biotechnology
+95,Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail
+96,Warner Bros. Discovery,WBD,Communication Services,Broadcasting
+97,"Workday, Inc.",WDAY,Information Technology,Application Software
+98,Xcel Energy,XEL,Utilities,Multi-Utilities
+99,Zoom Video Communications,ZM,Information Technology,Application Software
+100,Zscaler,ZS,Information Technology,Application Software
